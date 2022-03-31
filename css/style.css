@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo{
+    margin: auto 1rem;
+}
+.brand-name{
+    padding-top: 1.5rem;
+}
+.navbar-nav .nav-item{
+    padding-right: 5rem;
+    text-shadow: 1px 1px 2px rgb(50, 41, 13);
+    font-weight: 700;
+}
+.footer a{
+    color: #999;
+    padding-left: 7rem;
+}
+.login-title{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 700;
+   text-shadow: 1px 1px 2px rgb(50, 41, 13);
+
+}
+.register-title{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 700;
+   text-shadow: 1px 1px 2px rgb(50, 41, 13);
+
+}
+.SignUp-btn{
+   width: 6rem;
+}
